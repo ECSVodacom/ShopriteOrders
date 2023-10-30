@@ -1,0 +1,12 @@
+C:\Source\shoprite\ok\bin\Debug\ShopriteOrders.exe.config
+C:\Source\shoprite\ok\bin\Debug\ShopriteOrders.exe.manifest
+C:\Source\shoprite\ok\bin\Debug\ShopriteOrders.application
+C:\Source\shoprite\ok\bin\Debug\ShopriteOrders.exe
+C:\Source\shoprite\ok\bin\Debug\ShopriteOrders.pdb
+C:\Source\shoprite\ok\obj\Debug\OK.csproj.AssemblyReference.cache
+C:\Source\shoprite\ok\obj\Debug\OK.csproj.SuggestedBindingRedirects.cache
+C:\Source\shoprite\ok\obj\Debug\OK.csproj.CoreCompileInputs.cache
+C:\Source\shoprite\ok\obj\Debug\ShopriteOrders.exe.manifest
+C:\Source\shoprite\ok\obj\Debug\ShopriteOrders.application
+C:\Source\shoprite\ok\obj\Debug\ShopriteOrders.exe
+C:\Source\shoprite\ok\obj\Debug\ShopriteOrders.pdb

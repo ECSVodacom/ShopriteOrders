@@ -1,0 +1,22 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="ShopriteBizlinkSender.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="ConnectionString" Type="(Connection string)" Scope="Application">
+      <DesignTimeValue Profile="(Default)">&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;SerializableConnectionString xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;ConnectionString&gt;Data Source=192.168.101.116,1433;Initial Catalog=Shoprite;User ID=anco;Password=@nc6672G;MultipleActiveResultSets=true&lt;/ConnectionString&gt;
+&lt;/SerializableConnectionString&gt;</DesignTimeValue>
+      <Value Profile="(Default)">Data Source=192.168.101.116,1433;Initial Catalog=Shoprite;User ID=anco;Password=@nc6672G;MultipleActiveResultSets=true</Value>
+    </Setting>
+    <Setting Name="Orders" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">Z:NEWSHOPORDERS</Value>
+    </Setting>
+    <Setting Name="BizLinkURL" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">http://192.168.200.7:9080/msgsrv/http?from=</Value>
+    </Setting>
+    <Setting Name="Claims" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Z:NEWSHOPCLAIMS</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

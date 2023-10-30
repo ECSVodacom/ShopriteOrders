@@ -1,0 +1,28 @@
+C:\Anco\Shoprite\Shoprite NEW Orders\Shoprite.Debug\bin\Debug\Shoprite.Debug.pdb
+C:\Anco\Shoprite\Shoprite NEW Orders\Shoprite.Debug\obj\Debug\Shoprite.Debug.pdb
+C:\Anco\Shoprite\Shoprite NEW Orders\Shoprite.Debug\bin\Debug\Shoprite.Debug.exe.config
+C:\Anco\Shoprite\Shoprite NEW Orders\Shoprite.Debug\bin\Debug\Shoprite.Debug.exe
+C:\Anco\Shoprite\Shoprite NEW Orders\Shoprite.Debug\obj\Debug\Shoprite.Debug.exe
+C:\Anco\Shoprite\Shoprite NEW Orders\Shoprite.Debug\obj\Debug\Shoprite.Debug.csprojResolveAssemblyReference.cache
+C:\Work\Garbage\Shoprite NEW Orders\Shoprite.Debug\bin\Debug\Shoprite.Debug.exe.config
+C:\Work\Garbage\Shoprite NEW Orders\Shoprite.Debug\bin\Debug\Shoprite.Debug.exe
+C:\Work\Garbage\Shoprite NEW Orders\Shoprite.Debug\bin\Debug\Shoprite.Debug.pdb
+C:\Work\Garbage\Shoprite NEW Orders\Shoprite.Debug\obj\Debug\Shoprite.Debug.csproj.AssemblyReference.cache
+C:\Work\Garbage\Shoprite NEW Orders\Shoprite.Debug\obj\Debug\Shoprite.Debug.csproj.CoreCompileInputs.cache
+C:\Work\Garbage\Shoprite NEW Orders\Shoprite.Debug\obj\Debug\Shoprite.Debug.exe
+C:\Work\Garbage\Shoprite NEW Orders\Shoprite.Debug\obj\Debug\Shoprite.Debug.pdb
+C:\Source\shoprite\Shoprite.Debug\bin\Debug\Shoprite.Debug.exe.config
+C:\Source\shoprite\Shoprite.Debug\bin\Debug\Shoprite.Debug.exe
+C:\Source\shoprite\Shoprite.Debug\bin\Debug\Shoprite.Debug.pdb
+C:\Source\shoprite\Shoprite.Debug\obj\Debug\Shoprite.Debug.csproj.AssemblyReference.cache
+C:\Source\shoprite\Shoprite.Debug\obj\Debug\Shoprite.Debug.csproj.SuggestedBindingRedirects.cache
+C:\Source\shoprite\Shoprite.Debug\obj\Debug\Shoprite.Debug.csproj.CoreCompileInputs.cache
+C:\Source\shoprite\Shoprite.Debug\obj\Debug\Shoprite.Debug.exe
+C:\Source\shoprite\Shoprite.Debug\obj\Debug\Shoprite.Debug.pdb
+C:\Users\balom002\source\repos\ECTeam\shoprite\Shoprite.Debug\bin\Debug\Shoprite.Debug.exe.config
+C:\Users\balom002\source\repos\ECTeam\shoprite\Shoprite.Debug\bin\Debug\Shoprite.Debug.exe
+C:\Users\balom002\source\repos\ECTeam\shoprite\Shoprite.Debug\bin\Debug\Shoprite.Debug.pdb
+C:\Users\balom002\source\repos\ECTeam\shoprite\Shoprite.Debug\obj\Debug\Shoprite.Debug.csproj.AssemblyReference.cache
+C:\Users\balom002\source\repos\ECTeam\shoprite\Shoprite.Debug\obj\Debug\Shoprite.Debug.csproj.CoreCompileInputs.cache
+C:\Users\balom002\source\repos\ECTeam\shoprite\Shoprite.Debug\obj\Debug\Shoprite.Debug.exe
+C:\Users\balom002\source\repos\ECTeam\shoprite\Shoprite.Debug\obj\Debug\Shoprite.Debug.pdb
